@@ -1,0 +1,16 @@
+{
+    "name": "kencion/wx_pay",
+    "description": "a test composer project",
+    "type": "project",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kang",
+            "email": "237999627@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
